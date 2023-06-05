@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arahami
+- 👋 Hi, I’m @arohami
 - 👀 I’m interested in robotics
 - 🌱 I’m currently learning ML & robotics
 - 💞️ I’m looking to collaborate on ros projects
